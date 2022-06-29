@@ -1,0 +1,44 @@
+{
+  "question": [
+    "Q1. Who developed the Python language?",
+    "Q2. In which year was the Python language developed?",
+    "Q3. In which language is Python written?",
+    "Q4. In which year was the Python 3.0 version developed?",
+    "Q5. What do we use to define a block of code in Python?"
+  ],
+  "answer": [
+    2,
+    4,
+    3,
+    1,
+    3
+  ],
+  "options": [
+
+    ["Zim Den",
+      "Guido van Rossum",
+      "Niene Stom",
+      "Wick van Rossum"
+    ],
+    ["1995",
+      "1972",
+      "1981",
+      "1989"
+    ],
+    ["English",
+      "PHP",
+      "C",
+      "All of the above"
+    ],
+    ["2008",
+      "2000",
+      "2010",
+      "2005"
+    ],
+      ["Key",
+      "Brackets",
+      "Indentation",
+      "None of these"   
+      ]
+  ]
+}
